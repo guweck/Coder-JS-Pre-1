@@ -1,0 +1,1 @@
+Este simulador elige las cantidades a comprar de productos individuales de una lista de productos y luego solicita que el usuario indique si pagará en una sóla cuota o bien en aun número seleccionable de cuotas menusales con un 5% de interés mensual. El simulador calcula el precio de la compra con las distintas opciones de pago seleccionadas.
